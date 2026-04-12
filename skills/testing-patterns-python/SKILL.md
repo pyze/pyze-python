@@ -1,6 +1,6 @@
 ---
 name: testing-patterns-python
-description: "Python testing anti-patterns with pytest: mock.patch pitfalls, fixture gaps, private access via underscore, configuration divergence"
+description: "This skill should be used when writing or reviewing pytest tests, debugging test/production divergence, auditing mock.patch usage, or checking test fixtures for configuration gaps in Python."
 ---
 
 # Testing Patterns in Python

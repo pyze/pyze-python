@@ -1,6 +1,6 @@
 ---
 name: error-handling-python
-description: "Python error handling: exception chaining with 'from', assert vs raise for production, structured logging, custom exception hierarchies"
+description: "This skill should be used when implementing error handling in Python, choosing between assert and raise for production validation, chaining exceptions with 'from', or setting up structured logging."
 ---
 
 # Error Handling in Python

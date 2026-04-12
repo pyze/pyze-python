@@ -1,6 +1,6 @@
 ---
 name: tool-selection-python
-description: "Python tool selection: pyright/pylance LSP, IPython REPL, grep pitfalls with dynamic imports and string matching"
+description: "This skill should be used when deciding between pyright LSP, IPython REPL, and grep for Python code navigation, or when grep produces false positives from dynamic imports and string matching."
 ---
 
 # Tool Selection for Python

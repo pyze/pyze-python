@@ -1,6 +1,6 @@
 ---
 name: caching-and-purity-python
-description: "Python caching patterns: @lru_cache correctness, hidden dependencies, mutable return gotchas, pure function extraction"
+description: "This skill should be used when using @lru_cache or functools caching in Python, diagnosing stale cache results, or evaluating whether a Python function is pure enough to cache safely."
 ---
 
 # Caching and Purity in Python

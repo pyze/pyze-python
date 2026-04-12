@@ -1,6 +1,6 @@
 ---
 name: decomplection-python
-description: "Python decomplection patterns: explicit dependencies, pure functions, dataclass composition, avoiding hidden state"
+description: "This skill should be used when designing Python classes or functions for simplicity, choosing between inheritance and composition, or identifying hidden state and implicit dependencies in Python code."
 ---
 
 # Decomplection in Python

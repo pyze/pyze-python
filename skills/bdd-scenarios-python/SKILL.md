@@ -1,6 +1,6 @@
 ---
 name: bdd-scenarios-python
-description: "BDD scenarios in pytest: Given/When/Then structure, parametrized scenarios, fixtures as Given state, behavior vs implementation testing"
+description: "This skill should be used when writing BDD scenarios in pytest, structuring tests as Given/When/Then, using parametrize for spec-derived scenarios, or deciding between behavior testing and implementation testing in Python."
 ---
 
 # BDD Scenarios in Python
